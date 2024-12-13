@@ -3,7 +3,7 @@ This is repository for Pothole Civil Authority Android app
 
 This is one of the components of a complete Pothole App 
 
-### **I highly suggest you to first read [Detail of Pothole App](https://harshitshah4.github.io/portfolio/project/PotholeProblem)**
+
 
 ### Repo Links to other components : 
 
